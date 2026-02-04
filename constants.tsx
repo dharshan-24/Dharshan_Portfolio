@@ -136,7 +136,7 @@ export const SOCIAL_LINKS = {
   github: 'https://github.com/dharshan-24/',
   linkedin: 'https://www.linkedin.com/in/dharshanl/',
   email: 'mailto:dharshanlak2005@gmail.com',
-  resume: 'https://drive.google.com/uc?export=download&id=1D3St6-U9PwXgg7DO_zT5YqighA4d6Xf1'
+  resume: "/resume/Dharshan_Resume.pdf"
   
 
 };
