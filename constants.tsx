@@ -94,7 +94,7 @@ export const CERTIFICATIONS: Certification[] = [
     provider: 'HackerRank',
     date: 'Nov 2025',
     skills: ['SQL',  'Intermediate SQL'],
-    link: "/certifications/sql.jpg",
+    link: "/certifications/Sql.jpg",
     type: 'Course'
   }
 ];
