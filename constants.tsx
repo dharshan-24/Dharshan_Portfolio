@@ -78,7 +78,7 @@ export const CERTIFICATIONS: Certification[] = [
     provider: "Linkedin Learning",
     date: 'March 2024',
     skills: ["Generative AI", 'AI Models', 'Prompt Engineering'],
-    link: 'https://drive.google.com/file/d/13AwAwbIsMSqTxmuPWsdXu1oQQ4QdPAs3/preview',
+    link: '/certifications/Ai.jpg',
     type: 'Simulation'
   },
   {
@@ -86,7 +86,7 @@ export const CERTIFICATIONS: Certification[] = [
     provider: 'Linkedin Learning',
     date: 'March 2024',
     skills: ['Coding', 'Development',"Python", "Data Analysis"],
-    link: 'https://drive.google.com/file/d/1GP31JpwRDEHhm4OplrxBaJOmB1xViBul/preview',
+    link: '/certifications/Data.jpg',
     type: 'Simulation'
   },
   {
@@ -94,7 +94,7 @@ export const CERTIFICATIONS: Certification[] = [
     provider: 'HackerRank',
     date: 'Nov 2025',
     skills: ['SQL',  'Intermediate SQL'],
-    link: 'https://drive.google.com/file/d/16yTyWgg2Q--zBIil5rUhcRqslOjxOAGB/preview',
+    link: "/certifications/sql.jpg",
     type: 'Course'
   }
 ];
